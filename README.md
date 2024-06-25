@@ -14,4 +14,6 @@ cheapest_trips.csv contains the trips with the lowest prices for each search que
 If there is an error, it will print out the error message and continue to the next search query.
 By default there are a few invalid search queries just to show how the scraper handles them.
 
+In this scraper i did not use objects/classes, but there would be no problems using objects.
+
 Hopefully I met all the requirements, including the bonus one. 
