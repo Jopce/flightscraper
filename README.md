@@ -3,7 +3,7 @@
 The scraper depends on requests, it can be installed via pip:
 - `pip install requests`
 
-How to run the scraper:
+The scraper can be run using:
 - `python scraper.py`
 
 Please note that the scraper creates a csv_files subdirectory, in which 2 files will be placed: all_trips.csv and cheapest_trips.csv.
